@@ -1,4 +1,4 @@
 class Dogs 
-
+@@al = []
 
 end
