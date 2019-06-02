@@ -8,4 +8,7 @@ attr_accessor :name
   @@all << self 
 end
 
+def name
+  
+
 end
